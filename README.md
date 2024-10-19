@@ -4,7 +4,7 @@
 
 <!-- Image Section -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image" width="600" height="300"/>
+<!--   <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image" width="600" height="300"/> -->
 </p>
 
 <!-- Profile Views Counter -->
