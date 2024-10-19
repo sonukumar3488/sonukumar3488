@@ -1,5 +1,6 @@
+![logo](https://github.com/sonukumar3488/sonukumar3488/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm SONU KUMAR</h1>
-<h3 align="center">A Passionate Java Full Stack Developer from India</h3>
+<h3 align="center">Java Full Stack Developer & MERN Stack Specialist. I enjoy tackling complex challenges and bringing ideas to life through code.</h3>
 
 <!-- Image Section -->
 <p align="center">
